@@ -1,0 +1,9 @@
+2024-09-09 17:25:52.492037+07:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ACCOUNTS" not found (this database is empty); SQL statement:
+select * from accounts [42104-224]
+2024-09-09 17:26:09.742741+07:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ACCOUNTS" not found (this database is empty); SQL statement:
+select *from accounts [42104-224]
+2024-09-09 17:26:22.180820+07:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CUSTOMER" not found (this database is empty); SQL statement:
+select *from customer [42104-224]
